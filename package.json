@@ -1,0 +1,21 @@
+{
+  "name": "alexa-oauth-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "serverless-http": "^2.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.3.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
+  },
+  "scripts": {
+    "lint": "eslint src/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Metál Ádám",
+  "license": "ISC"
+}
